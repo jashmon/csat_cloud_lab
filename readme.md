@@ -1,0 +1,1 @@
+docker build -t jashmon/nodejs-image-demo-csad-2
